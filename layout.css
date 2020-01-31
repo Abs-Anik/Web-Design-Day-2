@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	background: #21bf73;
+}
+
+header h1{
+	color: #f9fcfb;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px; 
+
+}
+
+nav {
+	background: #ccc;
+	width: 350px;
+	height: 350px;
+
+}
+
+nav ul{
+	margin-left: 20px;
+	padding: 50px;
+}
