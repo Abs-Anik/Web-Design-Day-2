@@ -16,12 +16,43 @@ header h1{
 
 nav {
 	background: #ccc;
-	width: 350px;
+	width: 355px;
 	height: 350px;
+	float: left;
 
 }
 
 nav ul{
 	margin-left: 20px;
 	padding: 50px;
+}
+
+section .one{
+	background: blue;
+	color: white;
+	padding: 20px;
+	float: left;
+	width: 451px;
+	height: 310px;
+
+}
+
+article .two{
+	background: green;
+	color: white;
+	padding: 20px;
+	float: left;
+	width: 460px;
+	height: 310px;
+}
+
+footer .three{
+	background: black;
+	color: white;
+	padding: 20px;
+
+}
+
+footer p{
+	text-align: center;
 }
